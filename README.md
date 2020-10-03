@@ -1,3 +1,3 @@
-# Def Starz New Site
+# Bezimeni New Site
 
-Site Link: https://addyhebou.github.io/Def-Starz-Assistant-Site/
+Site Link: https://addyhebou.github.io/Bezimeni-Site/
